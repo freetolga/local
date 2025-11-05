@@ -1,0 +1,3 @@
+media-video/ffmpeg chromium opus
+media-libs/libwebp -tiff
+sys-kernel/installkernel ugrd grub
