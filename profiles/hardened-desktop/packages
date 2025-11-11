@@ -45,3 +45,9 @@ x11-misc/i3status-rust
 kde-plasma/plasma-meta
 kde-apps/kdecore-meta
 app-emulation/wine-vanilla
+kde-apps/ark
+kde-apps/dolphin
+kde-apps/gwenview
+kde-apps/kate
+kde-apps/konsole
+kde-apps/okular
