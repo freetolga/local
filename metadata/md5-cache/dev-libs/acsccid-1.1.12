@@ -1,0 +1,8 @@
+DEFINED_PHASES=-
+DESCRIPTION=Official ACS CCID Driver for pcsc-lite
+EAPI=8
+HOMEPAGE=https://github.com/acshk/acsccid/
+KEYWORDS=amd64
+SLOT=0
+SRC_URI=https://github.com/acshk/acsccid/archive/refs/tags/v1.1.12.tar.gz
+_md5_=3ae308cf9f8db08b1c91c1aec060af82
